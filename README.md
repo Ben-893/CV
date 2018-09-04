@@ -1,6 +1,7 @@
 ## Benjamin Luke Smith-Gordon
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I recently graduated from the intensive 12 week coding bootcamp Makers Academy.
+
 
 ## Skills
 
@@ -23,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (06-11-18 to 08-31-18)
+#### Makers Academy (June 2018 to September 2018
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -42,9 +43,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
+#####The London Bar School (August 2017 to September 2017)
+Learnt how to make a variety of cocktails, use the tools of the bar, and understand the daily functions of the bar and hospitality. 
+
+#####Barnet Southgate College, Carpentry and Joinery Course (September 2016 to June 2017)
+Learnt the ins and outs of carpentry, including how to read and sketch diagrams and use all the different hand/power tools associated with the trade.
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#####Bespoke Construction Recruitment Agency, London (June 2017 to Febuary 2018)
+Worked on a lot different construction sites all over London and performed a variety of different tasks.
+
+#####Robert Gordon Antiques, London (Sept 2012 to May 2013)   
+Learnt how to repair and age antique furniture using a variety of different techniques. This work included, among other things, repairing broken parts, sanding, stripping, and painting.
+
+
+  
+ 
