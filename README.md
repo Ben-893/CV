@@ -6,7 +6,7 @@ Spent many years living in both the US and Sweden.
 I recently graduated from the intensive 12 week coding bootcamp Makers Academy.
 
 
-## Skills
+**Skills** : Ruby, Rails, HTML, CSS
 
 ## Projects
 
@@ -18,13 +18,11 @@ Title  | Description                              | Technologies  | Time    | De
 
 ## Education
 
-#### Makers Academy (June 2018 to September 2018
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**[Makers Academy](http://www.makersacademy.com/curriculum/)** (June 2018 to September 2018
+*12-week coding bootcamp based in London*
 
-#### Any other qualifications
+
+## Other qualifications
 
 **The London Bar School** (August 2017 to September 2017)
 
@@ -34,17 +32,17 @@ Title  | Description                              | Technologies  | Time    | De
 
 - Learnt the ins and outs of carpentry, including how to read and sketch diagrams and use all the different hand/power tools associated with the trade.
 
-**Elof Lindalvs Gymnasium, Restaurant and Hospitality**, Sweden (August 2011 to September 2012)
-
+**Elof Lindalvs Gymnasium, Restaurant and Hospitality** (August 2011 to September 2012)
+*Sweden*
 - Learnt how to prepare a wide range of hot and cold entrées, techniques, and the day to day functions of the kitchen.
 
 ## Experience
 
-**Bespoke Construction Recruitment Agency**, London (June 2017 to Febuary 2018)
+**Bespoke Construction Recruitment Agency**, (June 2017 to Febuary 2018)
 
 - Worked on a lot different construction sites all over London and performed a variety of different tasks.
 
-**Robert Gordon Antiques**, London (Sept 2012 to May 2013)   
+**Robert Gordon Antiques**, (Sept 2012 to May 2013)   
 
 - Learnt how to repair and age antique furniture using a variety of different techniques. This work included, among other things, repairing broken parts, sanding, stripping, and painting.
 
