@@ -6,7 +6,7 @@ Spent many years living in both the US and Sweden.
 I recently graduated from the intensive 12 week coding bootcamp Makers Academy.
 
 
-**Skills** : Ruby, Rails, HTML, CSS
+**Skills** : JS, Ruby, Rails, HTML, CSS
 
 ## Projects
 
@@ -48,7 +48,7 @@ Title  | Description                              | Technologies  | Time    | De
 
 ## Interests
 
-Cooking, Games.
+Cooking, Travel, All sorts of video-games.
 
 
   
