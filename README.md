@@ -18,8 +18,13 @@ Title  | Description                              | Technologies  | Time    | De
 
 ## Education
 
-**[Makers Academy](http://www.makersacademy.com/curriculum/)** (June 2018 to September 2018
-*12-week coding bootcamp based in London*
+**[Makers Academy](http://www.makersacademy.com/curriculum/)** (June 2018 to September 2018)
+
+*12-week coding bootcamp which focuses on a number of principles and technologies:*
+
+- OOP, TDD, MVC, DDD
+- Agile Processes
+- Ruby, Rails, JavaScript, React, Node, PostgreSQL, Heroku
 
 
 ## Other qualifications
