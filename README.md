@@ -2,11 +2,11 @@
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Spent many years living in both the US and Sweden.
-I recently graduated from the intensive 12 week coding bootcamp Makers Academy.
+
+Junior full stack developer, recently graduated from the intensive 12 week coding bootcamp at Makers Academy. Looking for a company that will encourage me to continue my learning, and push me to become a better developer.
 
 
-**Skills** : JS, Ruby, Rails, HTML, CSS
+**Skills** : JS, Ruby, Rails, HTML, CSS, Git
 
 ## Projects
 
@@ -26,6 +26,7 @@ Title  | Description                              | Technologies  | Time    | De
 - OOP, TDD, MVC, DDD
 - Agile Processes
 - Ruby, Rails, JavaScript, React, Node, PostgreSQL, Heroku
+- Rspec, Jasmine
 
 
 ## Other qualifications
@@ -54,7 +55,7 @@ Title  | Description                              | Technologies  | Time    | De
 
 ## Interests
 
-Cooking, Travel, All sorts of video-games.
+Cooking, Travel & all things Oriental, Coffee & Cocktails, Online Games.
 
 
   
