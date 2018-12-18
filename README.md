@@ -14,7 +14,7 @@ Title  | Description                              | Technologies  | Time    | De
 ------ | ------------------------------    | ------------- | ------- | --------- |
 [Ticketchain](https://github.com/Ben-893/ticketchain) | Final group project, a ticket-validation blockchain written in Ruby with a functional block miner. | React, Ruby, Sinatra | 10 Days | [Demo Video](https://vimeo.com/287794015)
 [Acebook](https://github.com/Ben-893/acebook-nice-team) | Facebook clone with log-in, posts, and comments. | React, Ruby, Rails | 10 days | [Heroku](http://acebook-frontend.herokuapp.com/) 
-[Bank App](https://github.com/Ben-893/bank_app) | Sample tech test demonstrating SOLID principles and good TDD practice. | Ruby | 2 days |
+[Bank App](https://github.com/Ben-893/bank_app) | Sample tech test demonstrating SOLID principles and good TDD practice. | Ruby | |
 
 
 ## Education
