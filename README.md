@@ -56,7 +56,7 @@ Title  | Description                              | Technologies  | Time    | De
 
 ## Interests
 
-Cooking, Travel & all things Oriental, Coffee & Cocktails, Online Games.
+Cooking, Travel, Technology, Coffee & Cocktails, Online Games, Cars.
 
 
   
