@@ -12,9 +12,9 @@ Junior full stack developer, recently graduated from the intensive 12 week codin
 
 Title  | Description                              | Technologies  | 
 ------ | ------------------------------    | ------------- |
-[RateMyBook](https://github.com/Ben-893/RateMyBook) | A web application that stores a list of books I like, and allows me to rate, edit and delete them. | Ruby, Rspec, Sinatra, HTML, CSS | |
-[Bank App](https://github.com/Ben-893/bank_app) | Sample tech test demonstrating good TDD practice. | Ruby, Rspec | |
-[Tic-Tac-Toe](https://github.com/Ben-893/tic-tac-toe) | A Command Line game of Tictactoe. | Ruby, Rspec | |
+[RateMyBook](https://github.com/Ben-893/RateMyBook) | A web application that stores a list of books I like, and allows me to rate, edit and delete them. | Ruby, Rspec, Sinatra, HTML, CSS |
+[Bank App](https://github.com/Ben-893/bank_app) | Sample tech test demonstrating good TDD practice. | Ruby, Rspec |
+[Tic-Tac-Toe](https://github.com/Ben-893/tic-tac-toe) | A Command Line game of Tictactoe. | Ruby, Rspec |
 
 
 ## Education
