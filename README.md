@@ -3,10 +3,12 @@
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
-Junior full stack developer, recently graduated from the intensive 12 week coding bootcamp at Makers Academy. Looking for a company that will encourage me to continue my learning, and push me to become a better developer.
+Having completed an immersive 12-week coding bootcamp, I am keen to put my new skills and knowledge into practice as a Software Developer within the IT / technology sector. 
+
+My current career has highlighted my ability to pay close attention to detail, solve complex problems, seek ways to improve existing processes, and to always work with the customer at the heart of every action and decision.
 
 
-**Skills** : Ruby, Rspec, Sinatra, HTML, CSS, Git
+**Skills** : Microsoft Windows, Mac OS, Ruby, JavaScript, Rspec, Sinatra, HTML, CSS, Git
 
 ## Projects
 
@@ -21,7 +23,7 @@ Title  | Description                              | Technologies  |
 
 **[Makers Academy](http://www.makersacademy.com/curriculum/)** (June 2018 to September 2018)
 
-*12-week coding bootcamp which focuses on a number of principles and technologies:*
+*Completed a 12-week intensive coding bootcamp covering a range of technologies and principles:*
 
 - OOP, TDD, MVC, DDD
 - Agile Processes
@@ -31,31 +33,43 @@ Title  | Description                              | Technologies  |
 
 ## Other qualifications
 
-**The London Bar School** (August 2017 to September 2017)
+**The London Bar School** 2017
 
-- Learnt how to make a variety of cocktails, use the tools of the bar, and understand the daily functions of the bar and hospitality. 
+- Learnt how to make a variety of cocktails, and the daily functions of the bar and hospitality. 
 
-**Barnet Southgate College, Carpentry and Joinery** (September 2016 to June 2017)
+**Barnet Southgate College, Carpentry and Joinery** 2016 - 2017
 
-- Learnt the ins and outs of carpentry, including how to read and sketch diagrams and use all the different hand/power tools associated with the trade.
-
-**Elof Lindalvs Gymnasium, Restaurant and Hospitality** (August 2011 to September 2012)
-*Sweden*
-- Learnt how to prepare a wide range of hot and cold entrées, techniques, and the day to day functions of the kitchen.
+- NVQ Level 1, City & Guilds
 
 ## Experience
 
-**Bespoke Construction Recruitment Agency**, (June 2017 to Febuary 2018)
+**Marylebone Antiques**, 2019 - Present
 
-- Worked on a lot different construction sites all over London and performed a variety of different tasks.
+  -	Accountable for management of the business on a day-to-day basis as well as developing short-, medium- and long-term business plans in collaboration with the owners
+  -	Managing all logistics, including safe dispatch and transportation of items to buyers
+  -	Overseeing stock and uploading new products to digital marketing platforms
+  -	Performing administrative tasks including creating invoices, retrieving shipping quotes, and managing the VAT register
+  -	Helping to build excellent customer relationships, liaising with buyers through the full sales lifecycle to ensure satisfaction
+  -	Reviewing all processes to ensure continual improvement in the overall efficiency of the company. Implemented the use of stock codes and product tagging to streamline stock management
+  -	Created an Excel Spreadsheet to record the collection/delivery dates of items and their designated couriers
+  -	Created a WhatsApp group to improve communication between team members to reduce errors
 
-**Robert Gordon Antiques**, (Sept 2012 to May 2013)   
 
-- Learnt how to repair and age antique furniture using a variety of different techniques. This work included, among other things, repairing broken parts, sanding, stripping, and painting.
+**Bespoke Construction Recruitment Agency**, 2017 - 2018
+
+- Worked on different construction sites all over London, performing a variety of tasks. Quickly became a valued team member, adapting and learning new skills to assist tradespeople.
+
+**Intro Home Styling & Interior - Gothenburg**, 2014 - 2016
+
+- Handled stock management and organised transportation of goods from warehouse to client.
+
+**Robert Gordon Antiques**, 2012 - 2013  
+
+- Performed repairs and worked on high-value antique Victorian period Swedish furniture using a variety of styles and techniques. This required very close attention to detail, patience and perseverance to achieve the desired results.
 
 ## Interests
 
-Cooking, Traveling, Technology, Coffee & Cocktails, Games, Cars.
+Technology, Traveling, Reading, Cooking, Cocktails, Video Games, Cars
 
 
   
