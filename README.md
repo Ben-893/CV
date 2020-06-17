@@ -31,7 +31,7 @@ Title  | Description                              | Technologies  |
 - Rspec, Jasmine
 
 
-## Other qualifications
+## Other Qualifications
 
 **The London Bar School** 2017
 
