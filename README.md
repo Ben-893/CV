@@ -14,9 +14,12 @@ My current career has highlighted my ability to pay close attention to detail, s
 
 Title  | Description                              | Technologies  | 
 ------ | ------------------------------    | ------------- |
-[RateMyBook](https://github.com/Ben-893/RateMyBook) | A web application that stores a list of books I like, and allows me to rate, edit and delete them. | Ruby, Rspec, Sinatra, HTML, CSS
-[Bank App](https://github.com/Ben-893/bank_app) | Sample tech test demonstrating good TDD practice. | Ruby, Rspec
-[Tic-Tac-Toe](https://github.com/Ben-893/tic-tac-toe) | A Command Line game of Tictactoe. | Ruby, Rspec
+[React-Scoreboard](https://github.com/Ben-893/React-Scoreboard) | A Scoreboard app that displays a scoreboard with a list of Players and their respective scores | JavaScript, React, HTML, CSS
+[Burger-Builder-React](https://github.com/Ben-893/Burger-Builder-React) | A single-page web app that allows the user to construct a virtual burger and pretend to order it | JavaScript, React, HTML, CSS
+[RateMyBook](https://github.com/Ben-893/RateMyBook) | A web application that stores a list of books I like, and allows me to rate, edit and delete them | Ruby, Rspec, Sinatra, HTML, CSS
+[Bank App](https://github.com/Ben-893/bank_app) | Sample tech test demonstrating good TDD practice | Ruby, Rspec
+[Tic-Tac-Toe](https://github.com/Ben-893/tic-tac-toe) | A Command Line game of Tictactoe | Ruby, Rspec
+
 
 
 ## Education
@@ -25,10 +28,10 @@ Title  | Description                              | Technologies  |
 
 *Completed a 12-week intensive coding bootcamp covering a range of technologies and principles:*
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, DRY
 - Agile Processes
 - Ruby, Rails, Sinatra, JavaScript, React, PostgreSQL, Heroku
-- Rspec, Jasmine
+- Rspec, Jasmine, Capybara
 
 
 ## Other Qualifications
@@ -39,7 +42,7 @@ Title  | Description                              | Technologies  |
 
 **Barnet Southgate College, Carpentry and Joinery** 2016 - 2017
 
-- NVQ Level 1, City & Guilds
+- NVQ Level 1, City & Guilds Carpentry & Joinery
 
 ## Experience
 
@@ -69,7 +72,11 @@ Title  | Description                              | Technologies  |
 
 ## Interests
 
-Technology, Traveling, Reading, Cooking, Cocktails, Video Games, Cars
+I’ve always had a passion for tech, from games consoles to computers, mobile phones to high-end audio equipment,
+and then programming. I like learning about the latest available technology and gadgets through reviews on YouTube
+and Google. I’m a big fan of logic, figuring out how and why things work as they do, and investigating possible ways to
+make them work better. This has led to a deepening interest in programming and a determination to build a career in
+the field of technology.
 
 
   
