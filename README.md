@@ -14,9 +14,9 @@ My current career has highlighted my ability to pay close attention to detail, s
 
 Title  | Description                              | Technologies  | 
 ------ | ------------------------------    | ------------- |
-[Burger-Builder-React](https://github.com/Ben-893/Burger-Builder-React) | A single-page web app that allows the user to construct a virtual burger and pretend to order it | JavaScript, React, Redux, HTML, CSS, Google Firebase
-[React-Scoreboard](https://github.com/Ben-893/React-Scoreboard) | A Scoreboard app that displays a scoreboard with a list of Players and their respective scores | JavaScript, React, HTML, CSS
-[RateMyBook](https://github.com/Ben-893/RateMyBook) | A web application that stores a list of books I like, and allows me to rate, edit and delete them | Ruby, Rspec, Sinatra, HTML, CSS
+[Burger-Builder-React](https://github.com/Ben-893/Burger-Builder-React) | A single-page web app that allows the user to construct a virtual burger and pretend to order it | React, Redux, JavaScript, HTML, CSS, Google Firebase
+[React-Scoreboard](https://github.com/Ben-893/React-Scoreboard) | A Scoreboard app that displays a scoreboard with a list of Players and their respective scores | React, JavaScript, HTML, CSS
+[RateMyBook](https://github.com/Ben-893/RateMyBook) | A web application that stores a list of books I like, and allows me to rate, edit and delete them | Ruby, Sinatra, HTML, CSS, Rspec
 [Bank App](https://github.com/Ben-893/bank_app) | Sample tech test demonstrating good TDD practice | Ruby, Rspec
 [Tic-Tac-Toe](https://github.com/Ben-893/tic-tac-toe) | A Command Line game of Tictactoe | Ruby, Rspec
 
